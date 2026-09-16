@@ -1,9 +1,0 @@
-.vs/
-*.exe
-*.obj
-*.o
-*.a
-*.so
-*.dylib
-.DS_Store
-Thumbs.db
